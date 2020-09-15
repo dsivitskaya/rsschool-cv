@@ -50,3 +50,6 @@ Additional Links
 ----------------
 [Pet project](https://dsivitskaya.github.io/projectJS/# "skarpetki.by")
 
+
+**Made by [Diana Sivitskaya](https://www.linkedin.com/in/diana-sivitskaya-6bb005111/ "linkedin"). Fork me on [GitHub](https://github.com/dsivitskaya "github").**
+
