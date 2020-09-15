@@ -37,7 +37,7 @@ Language skills
 **English** Pre-Intermediate
 
 Interests & social projects
----------------------------
+----------------------------
 *   40+: usual people  
     Volunteer Eclab • May, 2018 — November,2018  
     *A series of research interviews with people over 40*
