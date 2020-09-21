@@ -4,7 +4,7 @@ body {
   background-color: #fff;
 }
 .wrapper {
-  width: 80%;
+  max-width: 1024px;
   margin: 0 auto;
 }
 .header {
@@ -34,7 +34,7 @@ body {
 }
 .personal-info {
   float: left;
-  width: 30%;
+  width: 32%;
   height: 80vh;
   background-color: #ffbf40;
 }
@@ -43,7 +43,7 @@ body {
 }
 .personal-story {
   float: right;
-  width: 60%;
+  width: 68%;
   height: 80vh;
   background-color: #6c8cd5;
 }
