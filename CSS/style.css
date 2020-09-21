@@ -34,7 +34,7 @@ body {
 }
 .personal-info {
   float: left;
-  width: 38%;
+  width: 30%;
   height: 80vh;
   background-color: #ffbf40;
 }
@@ -43,7 +43,7 @@ body {
 }
 .personal-story {
   float: right;
-  width: 62%;
+  width: 60%;
   height: 80vh;
   background-color: #6c8cd5;
 }
