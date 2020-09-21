@@ -4,7 +4,7 @@ body {
   background-color: #fff;
 }
 .wrapper {
-  max-width: 1024px;
+  width: 70%;
   margin: 0 auto;
 }
 .header {
