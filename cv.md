@@ -1,10 +1,9 @@
 Diana Sivitskaya
 ================
 
-**Date of birth:** 17 September 1978  
-**Address:** Minsk Belarus  
 **Phone number:** +375296684931  
-**Email:** di.sivitskaya@gmail.com  
+**Email:** di.sivitskaya@gmail.com 
+**Address:** Minsk Belarus 
 
 Objective
 ---------
@@ -26,15 +25,26 @@ Experience
 ----------
 +   **Private enterprise Shate-M Plus**  
     **Customs declarant** • April, 2013 — Present  
-    *Сustoms declaration*
+    *Сustoms clearance*
 
 +   **JSC BSB Bank**  
     **Economist** • June, 2006 — April, 2013  
-    *Support of banking operations, account opening, letter of credit operations*
+    *Support of banking operations*
 
-Language skills
----------------
-**English** Pre-Intermediate
+Basic skills
+------------
+**Software**  
+*   Photoshop  
+*   CorelDraw  
+*   3ds max  
+
+**Development**
+*   HTML CSS   
+*   JavaScript  
+*   Git  
+
+**English**  
+*   Intermediate
 
 Interests & social projects
 ----------------------------
@@ -44,7 +54,7 @@ Interests & social projects
 
 *   Socks from Granny  
     Coordinator • 2016 — Present  
-    *Grandmothers knit socks for social shelters and for people*
+    *An initiative in which grannies knit socks for social shelters and to order*
 
 Additional Links
 ----------------
