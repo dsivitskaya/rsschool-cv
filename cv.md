@@ -7,7 +7,7 @@ Diana Sivitskaya
 
 Objective
 ---------
-I am seeking a position in the IT sector focusing on web-development.
+My goal is to do what I want. By this I mean something fascinating and exciting. Now it's web design and web development.
 
 Education
 ---------
