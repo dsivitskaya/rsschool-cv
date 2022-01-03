@@ -1,0 +1,136 @@
+body {
+    font: 400 1em "PT Serif Caption", serif;
+    color: #000;
+    background-color: #fff;
+}
+
+.wrapper {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.header {
+    height: 140px;
+    padding: 5px 80px;
+    background-color: #ff7400;
+}
+
+.header .info {
+    float: left;
+}
+
+.header h1 {
+    padding: 30px 0;
+    font-size: 1.8em;
+    color: #fff;
+}
+
+.header p {
+    padding-left: 60px;
+    font-size: 1.1em;
+    font-style: italic;
+    color: #fff;
+}
+
+.header-photo {
+    float: right;
+    width: 130px;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.main {
+    overflow: hidden;
+}
+
+.personal-info {
+    float: left;
+    width: 38%;
+    background-color: #ffbf40;
+}
+
+.personal-info .contacts {
+    margin-bottom: 10px;
+}
+
+.personal-story {
+    float: right;
+    width: 62%;
+    background-color: #6c8cd5;
+}
+
+.personal-info,
+.personal-story {
+    padding-bottom: 500px;
+    margin-bottom: -500px;
+}
+
+.personal-story h2,
+.personal-info h2 {
+    margin-bottom: 4px;
+    padding: 10px;
+    font-size: 1.1em;
+    color: #fff;
+    text-align: left;
+}
+
+.personal-story p,
+.personal-story ul,
+.personal-info p,
+.personal-info ul {
+    margin-bottom: 10px;
+    padding-left: 35px;
+    padding-right: 15px;
+    font-size: 0.9em;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #000;
+}
+
+.personal-info ul:first-child {
+    margin-top: 5px;
+}
+
+.personal-info li,
+.personal-story li {
+    margin-bottom: 5px;
+}
+
+.basic-skills {
+    font-weight: bold;
+}
+
+.basic-skills ul li {
+    font-weight: normal;
+}
+
+.personal-info span,
+.personal-story span {
+    display: block;
+    font-weight: normal;
+}
+
+.personal-story .speciality::before,
+.personal-story .position::before {
+    content: " * ";
+}
+
+.personal-story .period {
+    font-style: italic;
+}
+
+.personal-story .description {
+    font-size: 0.8em;
+}
+
+.personal-story pre {
+    font-family: "Courier New", "Courier", monospace;
+    font-size: 0.9em;
+}
+
+.footer {
+    height: 5vh;
+    padding-top: 10px;
+    text-align: center;
+    background-color: #009999;
+}
