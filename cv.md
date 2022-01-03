@@ -37,7 +37,7 @@ Basic skills
 **English**  
 *   Intermediate B1
 
-Interests & social projects
+Own social projects
 ----------------------------
 *   40+: usual people  
     Volunteer Eclab • May, 2018 — November,2018  
@@ -45,7 +45,7 @@ Interests & social projects
 
 *   Socks from Granny  
     Coordinator • Semtember, 2016 — December, 2021  
-    *An initiative in which grannies knit socks for social shelters and to order*
+    *An initiative where grannies knit socks for social shelters and to order*
 
 Additional Links
 ----------------
