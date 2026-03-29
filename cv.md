@@ -2,6 +2,7 @@ Diana Sivitskaya
 ================
 
 **Address:** Minsk Belarus  
+**Email:** di.sivitskaya@gmail.com  
 **Discord:** diana_ds3
 **Telegram:** @diana_ds3
 
