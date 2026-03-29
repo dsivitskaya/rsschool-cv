@@ -5,3 +5,128 @@ body {
   width: 70%;
   margin: 0 auto;
 }
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 15px 80px;
+  background-color: #ff7400;
+}
+
+.header h1 {
+  padding: 30px 0;
+  font-size: 1.8em;
+  color: #fff;
+}
+
+.header p {
+  padding-left: 60px;
+  font-size: 1.1em;
+  font-style: italic;
+  color: #fff;
+}
+
+.header-photo {
+  width: 130px;
+  border-radius: 50%;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+}
+
+.personal-info {
+  width: 38%;
+  background-color: #ffbf40;
+}
+
+.personal-info .contacts {
+  margin-bottom: 10px;
+}
+
+.personal-story {
+  width: 62%;
+  background-color: #6c8cd5;
+}
+
+.personal-story h2,
+.personal-info h2 {
+  margin-bottom: 4px;
+  padding: 10px;
+  font-size: 1.1em;
+  color: #fff;
+  text-align: left;
+}
+
+.personal-story p,
+.personal-story ul,
+.personal-info p,
+.personal-info ul {
+  margin-bottom: 10px;
+  padding-left: 35px;
+  padding-right: 15px;
+  font-size: 0.9em;
+  font-weight: bold;
+  line-height: 1.3em;
+  color: #000;
+}
+
+.personal-info ul:first-child {
+  margin-top: 5px;
+}
+
+.personal-info li,
+.personal-story li {
+  margin-bottom: 5px;
+}
+
+.basic-skills {
+  font-weight: bold;
+}
+
+.basic-skills ul li {
+  font-weight: normal;
+}
+
+.personal-info span,
+.personal-story span {
+  display: block;
+  font-weight: normal;
+}
+
+.personal-story .speciality::before,
+.personal-story .position::before {
+  content: " * ";
+}
+
+.personal-story .period {
+  font-style: italic;
+}
+
+.personal-story .description {
+  font-size: 0.8em;
+}
+
+.personal-story pre {
+  font-family: "Courier New", "Courier", monospace;
+  font-size: 0.9em;
+  max-width: 100%;
+  overflow-x: auto;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  box-sizing: border-box;
+  margin: 0 10px;
+  padding: 0 10px;
+  background-color: rgba(255,255,255,0.2);
+}
+
+.footer {
+  padding: 20px;
+  text-align: center;
+  background-color: #009999;
+}
+.footer-img {
+  width: 40px;
+}
