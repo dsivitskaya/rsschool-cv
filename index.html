@@ -1,15 +1,130 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CV Sivitskaya</title>
 
-  <link rel="stylesheet" href="./style.css">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Sivitskaya</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif+Caption&amp;display=swap">
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body>
-  <header></header>
-  <main></main>
-  <footer></footer>
+        <header class="header">
+            <div class="header-info">
+                <h1>Diana Sivitskaya</h1>
+                <p>front-end developer</p>
+            </div>
+            <img class="header-photo" src="img/dsivitskaya.jpg" alt="personal photo">
+        </header>
+        <main class="main">
+            <aside class="personal-info">
+                <nav class="contacts">
+                    <h2>
+                        Contacts
+                    </h2>
+                    <ul>
+                        <li>Address: <span>Minsk Belarus</span></li>
+                        <li>Email: <span>di.sivitskaya@gmail.com</span></li>
+                        <li>Telegram: <span>@diana_ds3</span></li>
+                        <li>Discord: <span>diana_ds3</span></li>
+                    </ul>
+                </nav>
+
+                <section class="skills">
+                    <h2>
+                        Basic skills
+                    </h2>
+                    <ul>
+                        <li class="basic-skills">Software
+                            <ul>
+                                <li>Photoshop</li>
+                                <li>CorelDraw</li>
+                                <li>3ds max</li>
+                            </ul>
+                        </li>
+                        <li class="basic-skills">Development
+                            <ul>
+                                <li>HTML CSS</li>
+                                <li>JavaScript</li>
+                                <li>Git</li>
+                            </ul>
+                        </li>
+                        <li class="basic-skills">Language
+                            <ul>
+                                <li>English B2</li>
+                                <li>Polish A2</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </section>
+                <section class="projects">
+                    <h2>
+                        Pet projects
+                    </h2>
+                    <ul>
+                        <li><a href="img/dsivitskaya_photoshop.jpg" title="Design with clipping mask">Photoshop</a></li>
+                        <li><a href="img/dsivitskaya_3ds.jpg" title="Living room Design">3ds max</a></li>
+                        <li><a href="https://dsivitskaya.github.io/projectJS/#" title="Socks from Granny">JavaScript</a>
+                        </li>
+                    </ul>
+                </section>
+            </aside>
+            <section class="personal-story">
+
+                <h2>
+                    Objective
+                </h2>
+                <p>
+                    Driven by curiosity and a love for solving creative challenges. Currently a trainee at RSSchool, building strong fundamentals in web development.
+        example-js       </p>
+                <h2>
+                    Education
+                </h2>
+                <p>
+                    Master's Degree — BNTU
+                    <span class="speciality">Engineering Geometry and Computer Graphics</span>
+                </p>
+                <p>
+                    Bachelor's Degree — BSEU
+                    <span class="speciality">Statistics</span>
+                </p>
+                <h2>Code example</h2>
+                <pre>
+                    <code class="example-js">
+function isLeapYear(year) {
+    const divisibleBy4 = year % 4 === 0;
+    const divisibleBy100 = year % 100 === 0;
+    const divisibleBy400 = year % 400 === 0;
+    const notDivisibleBy100 = divisibleBy100 === false;
+    const part1 = divisibleBy4 &amp;&amp; notDivisibleBy100;
+    return part1 || divisibleBy400;
+}
+                   </code>
+                </pre>
+
+                <h2>
+                    Social projects
+                </h2>
+                <ul>
+                    <li>40+: usual people
+                        <span class="position">Interviewer</span>
+                        <span class="description">A series of research interviews with people over 40</span>
+                    </li>
+                    <li>Socks from Granny
+                        <span class="position">Coordinator</span>
+                        <span class="description">Social project where grannies knit socks</span>
+                    </li>
+                </ul>
+            </section>
+        </main>
+
+        <footer class="footer">
+            <p>2026 Made by <a href="https://www.linkedin.com/in/diana-sivitskaya-6bb005111/" title="linkedin">Diana
+                    Sivitskaya</a> for
+                <a href="https://rs.school/js/" title="rs.school"><img class="footer-js" src="img/rs_school_js.svg" width="40" alt="logo rs.school"></a>. Fork me on <a href="https://github.com/dsivitskaya" title="github">GitHub</a>.</p>
+        </footer>
 </body>
+
 </html>
