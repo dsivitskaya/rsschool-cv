@@ -30,11 +30,9 @@ Basic skills
 *   JavaScript  
 *   Git  
 
-**English**  
-*   Upper Intermediate B2
-
-**Polish** 
-*   Elementary A2 
+**Languages**  
+*   English B2
+*   Polish A2
 
 Own social projects
 ----------------------------
